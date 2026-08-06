@@ -276,7 +276,6 @@ if ($isPrime) {
     echo "Prime number";
 }
 else {
-    
     echo "Non-prime number";
 }
 
