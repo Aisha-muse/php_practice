@@ -125,7 +125,6 @@ foreach ($array as $row => $columns) {
 }
 
 echo "</table>";
-
 echo "<br><br>";
 
 //Q3 Square two-dimensional array
@@ -147,7 +146,6 @@ for ($i = 0; $i < 3; $i++) {
 
         $value = $array[$i][$j];
         
-
         $total += $value;
 
         if ($value % 2 == 0) {
