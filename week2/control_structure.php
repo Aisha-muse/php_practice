@@ -22,6 +22,7 @@ $mark = 45;
 
 if ($mark >= 50)
 echo "PASSED";
+
 else
 echo "FAILED";
 

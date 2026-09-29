@@ -23,6 +23,7 @@ echo "<br>";
 $week = 3;
 $day = 7;
 
+
 for ($i = 1; $i <= $week; $i++) {
 
     echo "Week $i: <br>";

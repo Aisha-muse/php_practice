@@ -23,6 +23,7 @@ $y = 4;
 // ($x < $y) ? echo "$x is less than $y" : echo "$x is greater than $y";
 
 echo "<br>";
+
 $x = 5;
 echo "This is the value of $x <br>";
 echo 'This is the value of $x';

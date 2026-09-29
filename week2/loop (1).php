@@ -25,6 +25,7 @@ for ($n = 5; $n >= 1; $n--) {
     $result = $result * $n;
 }
 
+
 echo "The Factorial of 5! = " . $result;
 
 echo "<br>";

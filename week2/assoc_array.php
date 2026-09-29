@@ -19,6 +19,7 @@ echo $student_info['address'];
 
 echo "<br>";
 
+
 // Creating Associative Array using manual indexing
 $student_info["id"] = 101;
 $student_info["name"] = "Mohamed Abdi Ali";

@@ -11,6 +11,7 @@ var_dump($fruits);
 
 echo "<br>";
 
+
 // Creating array manual indexing
 $cities[0] = "Mogadishu";
 $cities[1] = "Hargeisa";
